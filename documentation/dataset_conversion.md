@@ -180,7 +180,7 @@ large proportion of its design choices were built with 3D in mind. Also note tha
 especially in the non-biomedical domain, may benefit from pretrained network architectures which nnU-Net does not
 support.
 Still, there is certainly a need for an out of the box segmentation solution for 2D segmentation problems. And 
-also on 2D segmentation tasks nnU-Net cam perform extremely well! We have, for example, won a 2D task in the cell 
+also on 2D segmentation tasks nnU-Net can perform extremely well! We have, for example, won a 2D task in the cell 
 tracking challenge with nnU-Net (see our Nature Methods paper) and we have also successfully applied nnU-Net to 
 histopathological segmentation problems. 
 Working with 2D data in nnU-Net requires a small workaround in the creation of the dataset. Essentially, all images 
